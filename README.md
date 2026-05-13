@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/93ded486-2a6b-49c4-9d06-1703a
 3. Run the app:
    `npm run dev`
 "# school-project" 
+"# school-project" 
